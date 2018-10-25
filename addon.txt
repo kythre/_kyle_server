@@ -1,0 +1,5 @@
+"AddonInfo"
+{
+	"name"		"My server stuff"
+	"info"			"help"
+}
